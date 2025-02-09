@@ -28,7 +28,7 @@ Social Media Hacking Toolkit
  
 
  <h6><p align="center">
-    perform different types of <a href="https://github.com/rdWei/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/rdWei/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
+    perform different types of <a href="https://github.com/FantasticSukhi/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/FantasticSukhi/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
 </p></h6>
 </p>
 <p align="center">
@@ -36,7 +36,7 @@ Social Media Hacking Toolkit
   <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
   <img src="https://img.shields.io/badge/author-rdWei-141449" alt=""/>
  <h6><p align="center" style="color:yellow">
-    <i>please read at least the section regarding <a href="https://github.com/rdWei/SocialMediaHackingToolkit#Trustability">trustability</a>
+    <i>please read at least the section regarding <a href="https://github.com/FantasticSukhi/SocialMediaHackingToolkit#Trustability">trustability</a>
 </i></a>
 </p></h6>
 
@@ -50,15 +50,15 @@ The <b>SocialMediaHackingToolkit</b> on GitHub is for <i>educational purposes</i
 <div align="center">
 
 |  tested on   | Yes | No |
-|-------|:-----------:|:-----------:|
-| Ubuntu      |   X      |           |
+|-------------|:----------:|:---------:|
+| Ubuntu      |     X      |           |
 | Arch        |     X      |           |
-| Void        |       X    |           |           
+| Void        |     X      |           |           
 | Debian      |     X      |           |          
 | Kali        |     X      |           |          
-| Windows 7   |           |    X       |          
-| Windows 11 |     X      |           |          
-| Termux |     X      |           |          
+| Windows 7   |            |    X      |          
+| Windows 11  |     X      |           |          
+| Termux      |     X      |           |          
 
 </div>
 
@@ -76,7 +76,7 @@ this section explains how to install and run the tool on:<br> ubuntu, arch, void
 <h5><p align="center">Ubuntu / Debian</p></h3>
 
 ```
-git clone https://github.com/rdWei/SocialMediaHackingToolkit
+git clone https://github.com/FantasticSukhi/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -101,7 +101,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/rdWei/SocialMediaHackingToolkit
+git clone https://github.com/FantasticSukhi/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -126,7 +126,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/rdWei/SocialMediaHackingToolkit
+git clone https://github.com/FantasticSukhi/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -151,7 +151,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/rdWei/SocialMediaHackingToolkit
+git clone https://github.com/FantasticSukhi/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -176,7 +176,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/rdWei/SocialMediaHackingToolkit
+git clone https://github.com/FantasticSukhi/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -315,10 +315,10 @@ you can verify that the program works by testing it on **your profile**, open th
 
 | active features | Bruteforce | Mass report | Phishing |
 |-------|:-----------:|:-----------:|:-----------:|
-| Instagram|   X      |      X     |           |
-| Facebook|     X      |           |           |
-| Gmail|       X    |           |           |
-| Twitter|     X      |   X        |           |
+| Instagram|    X      |      X     |             |
+| Facebook|     X      |            |             |
+| Gmail|        X      |            |             |
+| Twitter|      X      |   X        |             |
 
 </div> 
 
@@ -336,7 +336,7 @@ you can verify that the program works by testing it on **your profile**, open th
   <img src="images/issues.gif" alt=""/>
 </p>
 
-If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our [Issues section](https://github.com/rdWei/SocialMediaHackingToolkit/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
+If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our [Issues section](https://github.com/FantasticSukhi/SocialMediaHackingToolkit/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
 
 <br>
 
@@ -344,5 +344,5 @@ If you have encountered an issue with SocialMediaHackingToolkit or would like to
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=rdWei/socialmediahackingtoolkit&type=Date)](https://star-history.com/#rdWei/socialmediahackingtoolkit&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=rdWei/socialmediahackingtoolkit&type=Date)](https://star-history.com/#FantasticSukhi/socialmediahackingtoolkit&Date)
 
